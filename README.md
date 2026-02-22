@@ -17,8 +17,7 @@ The script uses a `while True` loop to keep the programme running until the user
 * $1 \text{ yard} = 36 \text{ inches}$
 
 
-
-[Image of while loop flowchart in python]
+ 
 
 
 ## 📋 Requirements
